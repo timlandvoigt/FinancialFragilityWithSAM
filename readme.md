@@ -19,7 +19,7 @@ Fast Steps to Reproduce Benchmark Model
     -   "`main_create_env`" will create a file "`env_bench_ini0`" that
         contains the experiment definition for the benchmark economy.
 
-    -   The code archive contain the pre-computed file.
+    -   The code archive contains the pre-computed file.
 
 -   Execute script "`main_run_exper`".
 
@@ -35,7 +35,7 @@ Fast Steps to Reproduce Benchmark Model
         "`res_[current_date_time]`" that contains the converged policy
         functions.
 
-    -   The code archive contain the pre-computed named
+    -   The code archive contains the pre-computed file named
         "`res_20191112_bench`".
 
 -   Simulate the model using "`sim_stationary`" and
@@ -51,7 +51,7 @@ Fast Steps to Reproduce Benchmark Model
 
     -   To plot IRFs, run "`plot_trans`".
 
-For More Details See readme.pdf
+For More Details See readme_JF.pdf
 =================
 
 
